@@ -1,0 +1,55 @@
+
+.tac-one-regular {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: wheat;
+    margin: 0%;
+    padding: 0%;
+}
+.parisienne-regular {
+    /*font-family: "Parisienne", cursive;*/
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: wheat;
+    margin:0%;
+    padding:0%;
+    
+} 
+.container
+{
+    background-color: aqua;
+    
+    height: 100px;
+    padding: 0%;
+    margin: 0%;
+}
+
+/*.container-fluid
+{
+   background-color: coral;
+   
+    height: 100px;
+}*/
+.row
+{
+    background-color: rgb(214, 190, 7);
+    margin: 5px;
+    padding: 0%;
+    margin:0%;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
+*
+{
+    background-color: blue;
+    color:green ;
+    
+}
+.body{
+    background-image: url(img4.jpg);
+}
+
